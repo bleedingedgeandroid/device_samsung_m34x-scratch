@@ -1,0 +1,1 @@
+# device_samsung_m34x-scratch
